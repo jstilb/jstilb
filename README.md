@@ -18,11 +18,22 @@ Currently based in **San Diego, CA** and open to **Data Scientist** and **AI Eng
 
 ## Featured Projects
 
+### Modern AI Engineering
+
+| Project | Description | Stack | Tests |
+|---------|-------------|-------|-------|
+| [modern-rag-pipeline](https://github.com/jstilb/modern-rag-pipeline) | Production RAG pipeline with 4 chunking strategies, hybrid retrieval (semantic + BM25 + RRF), and IR evaluation metrics | Python, LangChain, ChromaDB, FastAPI | 109 tests, 88% cov |
+| [mcp-toolkit-server](https://github.com/jstilb/mcp-toolkit-server) | Model Context Protocol server with 5 tools, 3 resources, 3 prompts, and provider dependency injection | TypeScript, MCP SDK, Zod, Jest | 64 tests, 96% cov |
+| [agent-orchestrator](https://github.com/jstilb/agent-orchestrator) | Multi-agent system with state machine coordination, quality review loop, and typed message passing | Python, LangGraph, FastAPI, Pydantic | 31 tests, 90% cov |
+| [llm-eval-framework](https://github.com/jstilb/llm-eval-framework) | LLM evaluation with 9 custom metrics, LLM-as-judge pattern, pairwise comparison, and multi-format reporting | Python, FastAPI, Hypothesis | 102 tests, 85% cov |
+
+### AI Governance & Evaluation
+
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [meaningful_metrics](https://github.com/jstilb/meaningful_metrics) | Open-source evaluation frameworks for human-centered metrics, AI evaluation playbooks, and governance templates | Python, LLM Evaluation, Responsible AI |
 
-*More projects launching soon -- building portfolio coverage across deep learning, RAG systems, agent frameworks, and production MLOps.*
+All projects include CI/CD pipelines, Docker support, architecture docs, ADRs, and mock mode for zero-dependency demos.
 
 ## Technical Skills
 
