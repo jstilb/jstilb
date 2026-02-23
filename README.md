@@ -12,6 +12,12 @@ Currently based in **San Diego, CA** and open to **Data Scientist** and **AI Eng
 
 ## Featured Projects
 
+### AI Infrastructure
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [ai-assistant](https://github.com/jstilb/ai-assistant) | Production AI agent framework -- 65 composable skills, autonomous task execution, voice interaction, persistent memory, and 24 lifecycle hooks. Built on Claude Code | TypeScript, Bun, Claude Code |
+
 ### Modern AI Engineering
 
 | Project | Description | Stack |
