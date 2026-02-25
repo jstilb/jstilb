@@ -60,3 +60,16 @@ Currently based in **San Diego, CA** and open to **Data Scientist** and **AI Eng
 
 - Open to collaboration on AI evaluation, responsible AI, and production ML systems
 - Interested in roles building AI systems that are both powerful and trustworthy
+
+## Related Projects
+
+This profile showcases interconnected systems for AI engineering and evaluation:
+
+| Project | Description | Related To |
+|---------|-------------|-----------|
+| [ai-assistant](https://github.com/jstilb/ai-assistant) | Production AI agent framework | agent-orchestrator, context-engineering-toolkit |
+| [agent-orchestrator](https://github.com/jstilb/agent-orchestrator) | Multi-agent orchestration | ai-assistant, compound-ai-system |
+| [modern-rag-pipeline](https://github.com/jstilb/modern-rag-pipeline) | Production RAG system | context-engineering-toolkit, llm-eval-framework |
+| [meaningful_metrics](https://github.com/jstilb/meaningful_metrics) | AI evaluation framework | llm-eval-framework, agent-orchestrator |
+| [mcp-toolkit-server](https://github.com/jstilb/mcp-toolkit-server) | MCP tools server | ai-assistant, context-engineering-toolkit |
+| [context-engineering-toolkit](https://github.com/jstilb/context-engineering-toolkit) | Context optimization | ai-assistant, modern-rag-pipeline |
